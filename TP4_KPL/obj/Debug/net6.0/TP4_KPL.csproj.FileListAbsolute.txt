@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\bin\Debug\net6.0\TP4_KPL.exe
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\bin\Debug\net6.0\TP4_KPL.deps.json
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\bin\Debug\net6.0\TP4_KPL.runtimeconfig.json
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\bin\Debug\net6.0\TP4_KPL.dll
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\bin\Debug\net6.0\TP4_KPL.pdb
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.dll
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\refint\TP4_KPL.dll
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.pdb
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\TP4_KPL.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MOD 4\TP4_KPL\TP4_KPL\obj\Debug\net6.0\ref\TP4_KPL.dll
