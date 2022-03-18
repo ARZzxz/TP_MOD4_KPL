@@ -17,6 +17,7 @@ namespace TP4_KPL
             data.PrintData();
         }
     }
+ 
     public class HaloGeneric<T>
     {
         public void SapaUser(T x)
@@ -24,6 +25,7 @@ namespace TP4_KPL
             Console.WriteLine("Halo " + x);
         }
     }
+ 
     public class DataGeneric<T>
     {
         private T data;
