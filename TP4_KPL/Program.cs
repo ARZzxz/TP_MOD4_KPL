@@ -21,7 +21,7 @@ namespace TP4_KPL
     {
         public void SapaUser(T x)
         {
-            Console.WriteLine("Halo" + x);
+            Console.WriteLine("Halo " + x);
         }
     }
     public class DataGeneric<T>
